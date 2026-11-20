@@ -1,0 +1,19 @@
+# Week 3 Cybersecurity | PDF Password Hash Extraction & Recovery
+I'm pleased to share that I've completed another hands-on cybersecurity lab as part of my Network Walks Internship. In this practical exercise, I worked with three password protected PDF files and explored how password hashes can be extracted using different tools.
+
+# Tools & Technologies Used:
+John the Ripper
+OnlineHashCrack
+
+# Tasks Performed:
+Extracted password hashes from password-protected PDF files using OnlineHashCrack
+Used John the Ripper to start an attack
+Reviewed and verified the password recovery results.
+
+# Key Learning Outcomes:
+Understanding password hashing and hash extraction.
+Gaining practical experience with John the Ripper.
+Understanding the importance of strong and unique passwords.
+Strengthened the use of password security.
+
+Grateful to NETWORKWALKS and Waqas Karim (CCIE) for providing practical learning opportunities and helping me strengthen my cybersecurity skills.
